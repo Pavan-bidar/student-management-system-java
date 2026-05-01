@@ -8,9 +8,9 @@ To implement database connectivity using JDBC
 To perform CRUD operations using MySQL
 To understand separation of concerns (UI and database logic)
 3. System Overview
-🔹 System Type
+ System Type
 Desktop Application
-🔹 Architecture
+ Architecture
 Presentation Layer (Swing UI)
 Data Access Layer (DAO using JDBC)
 Database Layer (MySQL)
