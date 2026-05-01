@@ -91,7 +91,6 @@ Add Student
 Valid data
 Record inserted
 View Students
--
 Display all records
 Update Student
 ID + name
